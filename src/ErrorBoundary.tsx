@@ -4,7 +4,7 @@ import React, {
     ReactNode
 } from 'react';
 
-import {dispatchErrorBoundaryEvent} from './ErrorBoundaryEvent'
+import {dispatchErrorBoundaryEvent} from './ErrorBoundaryEvent';
 
 type Props = {
     fallback?: () => JSX.Element;
