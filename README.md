@@ -95,5 +95,5 @@ MIT
 
 ## Contributing
    
-Feel free to submit a pull request if you find any bugs. 
+Feel free to submit a pull request if you find any bugs. <br /> 
 Please make sure all commits are properly documented.
